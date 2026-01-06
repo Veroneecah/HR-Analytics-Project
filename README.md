@@ -86,5 +86,5 @@ The dataset contains employee-level HR data including salary, gender, race, depa
 
 ## Deliverables
 - Excel Dashboard
-- SQL analysis queries
+- SQL  Dataset and analysis queries
 - Documented business insights
