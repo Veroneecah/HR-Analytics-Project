@@ -33,7 +33,7 @@ The dataset contains employee-level HR data including salary, gender, race, depa
 - Gender distribution across departments
 - Racial distribution across departments
 
-### 4. Employee Satisfaction Ratings Trends
+### 4. Employee Satisfaction Ratings Trend
 - Changes in employee satisfaction over time
 
 ## Databoard Interaction
@@ -57,7 +57,7 @@ The dataset contains employee-level HR data including salary, gender, race, depa
 
 ### 8. Validation & Result Review
 
-### 9. Insight Generation
+### 9. Insights Generation
 
 ### 10. Recommendations
 
