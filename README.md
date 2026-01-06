@@ -1,4 +1,4 @@
-# HR Analytics: Employee Performance, Salary & Diversity Analysis (SQL)
+# HR Analytics: Employee Performance, Salary & Diversity Analysis (Using Excel and SQL)
 
 ## Project Overview
 This project analyzes HR data using SQL to uncover insights related to employee compensation, performance, diversity, recruitment effectiveness, and satisfaction trends. The analysis supports data-driven HR and workforce planning decisions.
@@ -7,7 +7,7 @@ This project analyzes HR data using SQL to uncover insights related to employee 
 - Analyze salary distribution across demographics and departments
 - Identify top-performing employees and managers
 - Evaluate diversity across departments
-- Assess recruitment sources and employee satisfaction trends
+- Assess recruitment sources and employee satisfaction trends.
 
 ## Tools Used
 - SQL (SELECT statement, WHERE clauses, GROUP BY clause, ORDER BY clause, TOP, Aggregate functions, Date functions, Aliases, ETC)
