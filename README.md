@@ -19,7 +19,7 @@ The dataset contains employee-level HR data including salary, gender, race, depa
 ## Analysis Sections
 
 ### 1. Compensation Analysis
-- Top 10 highest-paid employees
+- Top 10 highest paid employees
 - Average salary by race and gender
 - Salary comparison across departments
 - Salary trends by hiring year
