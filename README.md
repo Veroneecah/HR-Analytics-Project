@@ -36,7 +36,7 @@ The dataset contains employee-level HR data including salary, gender, race, depa
 ### 4. Employee Satisfaction Ratings Trend
 - Changes in employee satisfaction over time
 
-## Databoard Interaction
+## Dashboard Interaction
 <a href="https://github.com/Veroneecah/HR-Analytics-Project/commit/7e5d7837205abe964ce7ecf94ad33b1404fd9054">View Dashboard
 
 ## Project Workflow (SQL)
@@ -62,6 +62,9 @@ The dataset contains employee-level HR data including salary, gender, race, depa
 ### 10. Recommendations
 
 ### 11. Documentation & Presentation
+
+## Dashboard
+
 
 ## SQL Queries
 <a href="https://github.com/Veroneecah/HR-Analytics-Project/commit/7e5d7837205abe964ce7ecf94ad33b1404fd9054">View Queries
