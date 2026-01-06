@@ -14,6 +14,7 @@ This project analyzes HR data using SQL to uncover insights related to employee 
 
 ## Dataset
 The dataset contains employee-level HR data including salary, gender, race, department, manager, performance rating, recruitment source, hire date, and satisfaction score.
+<a href="https://github.com/Veroneecah/HR-Analytics-Project/commit/7e5d7837205abe964ce7ecf94ad33b1404fd9054">Dataset
 
 ## Analysis Sections
 
