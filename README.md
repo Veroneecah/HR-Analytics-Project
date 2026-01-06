@@ -35,6 +35,8 @@ The dataset contains employee-level HR data including salary, gender, race, depa
 ### 4. Employee Satisfaction Trends
 - Changes in employee satisfaction over time
 
+## Databoard Interaction
+
 ## Key Insights
 - Salary levels vary across departments and demographic groups
 - Certain managers consistently lead higher-performing teams
