@@ -36,6 +36,32 @@ The dataset contains employee-level HR data including salary, gender, race, depa
 - Changes in employee satisfaction over time
 
 ## Databoard Interaction
+<a href="https://github.com/Veroneecah/HR-Analytics-Project/commit/7e5d7837205abe964ce7ecf94ad33b1404fd9054">View Dashboard
+
+## Project Workflow (SQL)
+
+### 1. Data Acquisition
+
+### 2. Data Understanding & Preparation
+
+### 3. Defining Business Questions
+
+### 4. SQL Environment Setup
+
+### 5. Data Exploration Using SQL
+
+### 6. Analytical Query Development
+
+### 7. Aggregation & Trend Analysis
+
+### 8. Validation & Result Review
+
+### 9. Insight Generation
+
+### 10. Recommendations
+
+### 11. Documentation & Presentation
+
 
 ## Key Insights
 - Salary levels vary across departments and demographic groups
