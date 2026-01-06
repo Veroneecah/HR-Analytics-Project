@@ -16,7 +16,7 @@ This project analyzes HR data using SQL to uncover insights related to employee 
 The dataset contains employee-level HR data including salary, gender, race, department, manager, performance rating, recruitment source, hire date, and satisfaction score.
 <a href="https://github.com/Veroneecah/HR-Analytics-Project/commit/7e5d7837205abe964ce7ecf94ad33b1404fd9054">Dataset
 
-## Analysis Sections
+## Excel Analysis Sections
 
 ### 1. Compensation Analysis
 - Top 10 highest paid employees
@@ -62,6 +62,8 @@ The dataset contains employee-level HR data including salary, gender, race, depa
 
 ### 11. Documentation & Presentation
 
+## SQL Queries
+<a href="https://github.com/Veroneecah/HR-Analytics-Project/commit/7e5d7837205abe964ce7ecf94ad33b1404fd9054">View Queries
 
 ## Key Insights
 - Salary levels vary across departments and demographic groups
@@ -76,5 +78,6 @@ The dataset contains employee-level HR data including salary, gender, race, depa
 - Monitor employee satisfaction to improve retention
 
 ## Deliverables
+- Excel Dashboard
 - SQL analysis queries
 - Documented business insights
