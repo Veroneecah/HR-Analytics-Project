@@ -15,7 +15,7 @@ This project analyzes HR data using Excel and SQL to uncover insights related to
 
 ## Dataset
 The dataset contains employee-level HR data including salary, gender, race, department, manager, performance rating, recruitment source, hire date, and satisfaction score.
-<a href="https://github.com/Veroneecah/HR-Analytics-Project/commit/7e5d7837205abe964ce7ecf94ad33b1404fd9054">Dataset
+<a href="https://github.com/Veroneecah/HR-Analytics-Project/commit/7e5d7837205abe964ce7ecf94ad33b1404fd9054">Excel Dataset
 
 ## Excel Analysis Sections
 
@@ -67,6 +67,7 @@ The dataset contains employee-level HR data including salary, gender, race, depa
 <img width="958" height="458" alt="HR Analysis Screenshot " src="https://github.com/user-attachments/assets/6c0804f6-6be8-45fc-84bf-92e4d1090df9" />
 
 ## HR Dataset
+<a href="https://github.com/Veroneecah/HR-Analytics-Project/commit/d63b5828f79fb02c48780442c076b5f5b836aa73">View SQL Dataset
 
 ## SQL Queries
 <a href="https://github.com/Veroneecah/HR-Analytics-Project/commit/7e5d7837205abe964ce7ecf94ad33b1404fd9054">View Queries
