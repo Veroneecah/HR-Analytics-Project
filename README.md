@@ -10,6 +10,7 @@ This project analyzes HR data using Excel and SQL to uncover insights related to
 - Assess recruitment sources and employee satisfaction trends.
 
 ## Tools Used
+- Excel
 - SQL (SELECT statement, WHERE clauses, GROUP BY clause, ORDER BY clause, TOP, Aggregate functions, Date functions, Aliases, ETC)
 
 ## Dataset
